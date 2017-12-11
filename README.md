@@ -10,13 +10,13 @@ Carr CE, Bryan NC, Saboda K, Bhattaru SA, Ruvkun G, Zuber MT. Acceleration Profi
 
 # Installation
 Get scripts (via Terminal.app):
-git clone git@github.com:CarrCE/zerog.git
+```git clone git@github.com:CarrCE/zerog.git```
 
 Get data:
 TBD
 
 Run example (in MATLAB):
->> analysis
+```analysis```
 
 # License
 Distributed under an MIT license. See LICENSE for details.
