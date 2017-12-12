@@ -10,12 +10,12 @@ Carr CE, Bryan NC, Saboda K, Bhattaru SA, Ruvkun G, Zuber MT. Acceleration Profi
 
 # Installation
 ## Get Scripts
-Download: ```https://github.com/CarrCE/zerog/archive/master.zip``` or use command line ```git clone git@github.com:CarrCE/zerog.git```.
+Download: [https://github.com/CarrCE/zerog/archive/master.zip] or use command line ```git clone git@github.com:CarrCE/zerog.git```.
 
 Unzip to preferred location, here denoted ```/zerog-master```.
 
 ## Get Data
-Download (1.0 GB ZIP, CC BY 3.0 US): ```http://hdl.handle.net/1721.1/112721/ZeroG_Data.zip```
+Download: [http://hdl.handle.net/1721.1/112721/ZeroG_Data.zip]. This 1.0 GB dataset has a CC BY 3.0 US license.
 
 Unzip into the same folder as your code, e.g. ```/zerog-master```
 
