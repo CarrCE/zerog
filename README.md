@@ -15,7 +15,7 @@ Download: <https://github.com/CarrCE/zerog/archive/master.zip> or use command li
 Unzip to preferred location, here denoted ```/zerog-master```.
 
 ## Get Data
-Download: <https://osf.io/5rqu9/download>. This 1.0 GB dataset has a CC BY 4.0 US license.
+Download: <https://osf.io/5rqu9/download>. This 1.0 GB (compressed ZIP) dataset has a CC BY 4.0 US license.
 
 Unzip into the same folder as your code, e.g. ```/zerog-master```
 
