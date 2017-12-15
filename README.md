@@ -2,7 +2,7 @@
 Code for working with accelerometer data from parabolic flights.
 
 # Compatibility
-Tested with MATLAB 2017a on OS X 10.12 and Windows 10. Expected to work with MATLAB 2016a+.
+Tested with MATLAB 2017a on OS X 10.12 and Windows 7 and Windows 10. Expected to work with MATLAB 2016a+.
 Requires Signal Processing Toolbox.
 
 # Citation
