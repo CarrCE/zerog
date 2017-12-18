@@ -24,5 +24,7 @@ You should now have two folders in your ```/zerog-master``` directory, ```Flight
 ## Run Analysis
 In MATLAB, go to your ```/zerog-master``` path, and run the main script: ```analysis```. This will perform the same analysis as in the publication (see citation, above). For documentation and to adapt to your own data, see the contents of the ```analysis.m``` script.
 
+The results of running this analysis in MATLAB include a series of PDF figures, replicating those in the preprint, the filtered g-level data, and a tab-delimited file of all periods in the flight. All times are elapsed time, and for reference, the start time is: 2017-11-17 18:28:51 UTC. The analysis results are also available (188 MB ZIP) at: <https://osf.io/pmhj4/download>
+
 # License
 Distributed under an MIT license. See LICENSE for details.
