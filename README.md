@@ -1,6 +1,8 @@
 # ZeroG
 Code for working with accelerometer data from parabolic flights.
 
+We use two-stage change-point detection to identify transitions between g-levels and periods of statistically stable g-levels outside these transitions.
+
 # Compatibility
 Tested with MATLAB 2017a on OS X 10.12 and Windows 7 and Windows 10. Expected to work with MATLAB 2016a+.
 Requires Signal Processing Toolbox.
