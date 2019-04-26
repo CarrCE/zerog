@@ -8,8 +8,7 @@ Tested with MATLAB 2017a on OS X 10.12 and Windows 7 and Windows 10. Expected to
 Requires Signal Processing Toolbox.
 
 # Citation
-Carr CE, Bryan NC, Saboda KN, Bhattaru SA, Ruvkun G, Zuber MT. Acceleration Profiles and Processing Methods for Parabolic Flight. arXiv:1712.05737 (2017)
-<https://arxiv.org/abs/1712.05737>
+Carr CE, Bryan NC, Saboda KN, Bhattaru SA, Ruvkun G, Zuber MT. Acceleration Profiles and Processing Methods for Parabolic Flight. npj Microgravity 4, Article number: 14 (2018) <https://doi.org/10.1038/s41526-018-0050-3>. Preprint: arXiv:1712.05737 <https://arxiv.org/abs/1712.05737>
 
 # Installation
 ## Get Scripts
